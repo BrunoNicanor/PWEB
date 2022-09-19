@@ -1,0 +1,49 @@
+
+
+@media screen and (min-width: 420px){
+  
+    .pagina{
+        background-color: gray;
+    }
+     
+}
+
+@media screen and (min-width: 768px){
+  
+    .pagina{
+        background-color: orange;
+    }
+     
+}
+
+@media screen and (min-width: 1024px){
+  
+    .pagina{
+        background-color: pink;
+    }
+     
+}
+
+@media screen and (min-width: 1080px){
+  
+    .pagina{
+        background-color: orangered;
+    }
+     
+}
+
+@media screen and (min-width: 1366px){
+  
+    .pagina{
+        background-color: purple;
+    }
+     
+}
+
+@media screen and (min-width: 1920px){
+  
+    .pagina{
+        background-color: yellow;
+    }
+     
+}
