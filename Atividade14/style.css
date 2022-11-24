@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    background-color: aqua;
+    color: red;
+}
+
+h1 {
+    text-align: center;
+}
+
+header {
+    border-bottom: 3px solid rgb(0, 0, 0);
+    ;
+}
+
+form {
+    margin-left: 30%;
+}
+
+div {
+    margin-right: 50%;
+    text-align: center;
+}
